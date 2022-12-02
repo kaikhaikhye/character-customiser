@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/character-customiser/static/css/main.fc70be34.css",
+    "main.js": "/character-customiser/static/js/main.83153e3a.js",
+    "static/media/nft_hair-1.png": "/character-customiser/static/media/nft_hair-1.23a5ec4adeff9e264d6b.png",
+    "static/media/nft_body.png": "/character-customiser/static/media/nft_body.6b9f0f5f5ce063c1487e.png",
+    "static/media/nft_eyes-3.png": "/character-customiser/static/media/nft_eyes-3.b7bb18244ed31a2a3695.png",
+    "static/media/nft_hair-2.png": "/character-customiser/static/media/nft_hair-2.7e2e362291f9ac639df9.png",
+    "static/media/nft_mouth-1.png": "/character-customiser/static/media/nft_mouth-1.a7be97a8c9d2541aa535.png",
+    "static/media/nft_eyes-1.png": "/character-customiser/static/media/nft_eyes-1.76077bcc846247c553e3.png",
+    "static/media/nft_mouth-3.png": "/character-customiser/static/media/nft_mouth-3.0676b2c301cc1ce03151.png",
+    "static/media/nft_hair-3.png": "/character-customiser/static/media/nft_hair-3.459e5f392438fbf88bbd.png",
+    "static/media/nft_eyes-2.png": "/character-customiser/static/media/nft_eyes-2.3b638cb679c8febbc3d2.png",
+    "static/media/nft_mouth-2.png": "/character-customiser/static/media/nft_mouth-2.e771edc0f4e664617c95.png",
+    "index.html": "/character-customiser/index.html",
+    "main.fc70be34.css.map": "/character-customiser/static/css/main.fc70be34.css.map",
+    "main.83153e3a.js.map": "/character-customiser/static/js/main.83153e3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc70be34.css",
+    "static/js/main.83153e3a.js"
+  ]
+}
